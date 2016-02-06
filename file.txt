@@ -1,3 +1,4 @@
 here is the initial file
 adding this as part of feature1
 added another thing to feature1
+and another thing to feature1
