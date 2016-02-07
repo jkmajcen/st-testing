@@ -18,9 +18,7 @@ wrong
 way
 added this from github directly
 abc
-from github 1
-from github 2
-from github 3
-from github 4
-from github 5
-from github 6
+from github 1 - local change 1
+from github 2 - local change 2
+from github 3 - local change 3
+a final local change
