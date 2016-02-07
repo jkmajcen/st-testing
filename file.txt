@@ -10,3 +10,15 @@ hotfix
 brand new feature2
 added another thing and then this
 1234567
+
+starting a new feature
+abcd	
+going
+wrong
+way
+added this from github directly
+abc
+from github 1 - local change 1
+from github 2 - local change 2
+from github 3 - local change 3
+a final local change
